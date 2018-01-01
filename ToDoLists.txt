@@ -1,0 +1,160 @@
+To DO LIst
+Higher
+robotController
+vertical or horizontal make arrow so that it knows the direction
+scroll screen
+On collision it shifts 
+Grid snap to grid
+
+Documentation
+
+BLE android - can't be tested
+For loop implementation
+
+
+https://play.google.com/store/apps/details?id=org.jfedor.nxtremotecontrol&hl=en
+Bluetooth - low energy power - both android and ios
+
+recording feature
+
+making block diagram robot
+Move
+rotate
+speak 
+(long press will give options or delete?)
+NXT android - open source
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+multiplication - done
+one activitiy - five acts (get right) - one no - zero - doone
+and display result after that. - done
+background + graphics + mutiplication - done (graphics?)
+
+Kinect - 
+
+
+
+for subtraction the first should not be smaller
+
+
+sound enable
+
+youtube - toDoMath
+
+
+Dice or color the one that is selected - used arrow
+
+
+if time
+check the force (or distance)
+
+
+
+
+
+math game split into two screen
+enable and disable speech on google
+if bluetooth -> robot chooses second one
+show card
+
+----------------
+wheel or card lists
+card list swipe it to make it see different lists
+
+
+
+Use android speech api into unity
+
+Extra:
+- Math Game(?)
+Board that you (swipe it) flicks and choose a number
+and you do that again to choose another number
+and he figures out what number goes in
+Done Lists
+5. Two people game (display two scores) - DONE
+2. End Game Screen (after bug fix) - Done but need more
+4. when click back go back to menu - Done
+6. State - Mode(Easy, medium, hard), In rest or playing - kinda implemented
+7. Upside down DOne
+3. Change design - simple - check needed
+1. Implment communication - need more talk to Hae
+
+Jan 26
+3. Don¡¯t worry about the graphics, but it seems there¡¯s some shadow casted on the card images that makes them look very dark. Please check. - Done make it brighter
+
+2. Please reduce the animation effect to a minimum or something very simple. It¡¯s very slow and long right now. - Check with Hae
+
+4. Fonts need to be much larger - Yes
+
+5. ¡°back¡± doesn¡¯t work when in the result display screen. - Fixed
+
+
+Jan 28.
+6. Background color changes when turn changes. For example, from RGBA(191,228,118,1) to (253,202,162,1)  to know who is playing - Looks weird
+2. Keep orientaion horizontal - make card bigger, font bigger (start screen bigger)
+
+3. Disney (cars ) design
+4.Meeting Next Monday
+Jan 31.
+1. Implemnt States - send data on each turn of cards
+7. Bluetooth Integration
+Feb
+1. Make icon
+2. if go back from winning - go back to play
+Feb 2
+5. card to horizontal direction
+
+3. if bluetooth connection is not enabled boolean has to be false
+
+Feb 11
+
+7. Google speech recognition look into it
+
+
+12. How to incorporate google speech api (look into it)
+9. Input players Name - reverted 
+10. Saving scores to certain folder and win count as well to do 11. - reverted
+11. Diplay how many times a certain players win EX) S 2: 1 A - reverted
+8. Background color stuff - make menu that does it - reverted
+6. PC Bluetooth server C++ - done in java
+
+
+March 11
+
+go back during game
+just list 5 cards with answer so that we can do a lot more
+
+seperate menu for multiplication, addition, division, subtraction
+
+Pop up menu
+
+rotate that to 36 so that 1 is on the top
+RANDOMize on (72, 144, 216, 288, 360 )+ 360 on all
+
+
+April 3
+CardGame with always bluetooth on it
+gives points to whoever have first come - first serve
+anything on touch will get P1 score
+and anything on bluetooth will get P2 score
+robot sends two data first card and second card
+
+whether robot chooses first card, child can choose second card
+same thing with child.
+
+April 18
+reduce the size, but propornal to window size

@@ -1,0 +1,46 @@
+bluetooth terminates if tries to connect more than once (not really, but just terminates). happens on my phone
+
+1.popup menu shown in wrong position 
+2.Moving when gui is on gives error
+3.text are not in right position
+
+5.slider sometimes does not come back
+6. In finding minimum distance, 0 index is not minimum
+
+
+
+
+
+
+Fixed
+1. When touched quickly, it overrides card1, card2 //FIXED now waits
+2. Touching problem. Sometimes it is not touched properly - I think it is collider prob + animation // FIXED IT WAS both mine and flip prob
+3. The one on the top looks bigger than bottom //Fixed
+1. Null Reference when you keep  clicking
+Bluetooth bugs sending data back and forth
+Color always Pink
+bluetooth click will always enable it
+
+
+Text disappear if moved to the right
+user still can drag objects even though  
+
+popup should disappear when is it done 
+
+for loop insertion when there are one spot left or no spot left
+and deleting front does not shift things up.
+for loop removing doesn't shift it up
+
+
+
+removing for loop  needs a id and remove both id
+
+
+MathGame
+bluetooth just closes by itself fixed - never change state before you changed everyhing
+
+
+for loop start and end can messed up
+Lists are not in the order that hae might want - Fine
+
+4.fast touching it screws the whole sequence

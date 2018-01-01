@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\gameCreator.cs">
+    <Files>
+      <File FileName="Assets\Script\gameCreator.cs" Line="195" Column="3" />
+      <File FileName="Assets\Script\playScript.cs" Line="213" Column="26" />
+      <File FileName="Assets\Script\Wheel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\camScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Bluetooth.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

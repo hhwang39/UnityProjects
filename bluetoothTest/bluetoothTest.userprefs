@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\cardGame\Assets\Resources\Scripts\Game.cs">
+    <Files>
+      <File FileName="..\cardGame\cardGame.sln" Line="1" Column="1" />
+      <File FileName="..\cardGame\Assets\Resources\Scripts\Game.cs" Line="235" Column="4" />
+      <File FileName="Assets\Script\CallJavaCode.cs" Line="1" Column="1" />
+      <File FileName="..\cardGame\Assets\Resources\Scripts\CardGen.cs" Line="1" Column="1" />
+      <File FileName="..\cardGame\Assets\Resources\Scripts\Card.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
